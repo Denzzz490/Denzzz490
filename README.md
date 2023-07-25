@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Denzzz490
+- 👋 Hi, I’m @DenzellDurell
 - 👀 I’m interested in cybersecurity and Web Development.
 - 🌱 I’m currently learning CyberSecurity and Digital Forensics.
 - 💞️ I’m looking to collaborate on Projects.
